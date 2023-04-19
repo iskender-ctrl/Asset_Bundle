@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 684407019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f7850b29e4f7a8028d936c3191a73a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 2.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 6.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 0.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 7.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 0.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 3.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 5.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 6.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 1.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Clouds.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 4.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 3.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 7.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 1.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 5.png
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Battle Royale Show 4.mat
+- Assets/HYPEPOLY - Battle Royale Show/Materials/Textures/Battle Royale Show 2.png
+Dependencies: []
